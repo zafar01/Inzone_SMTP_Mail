@@ -110,7 +110,7 @@ function inzone_smtp_mail_setting() {
  </tr>
  <tr id="pass_h">
    <td><b>Password:</b> <span class="red" >*</span></td>
-   <td><input type="text" id="password"  class="input "   name="password" value="<?= $password; ?>" > </td>
+   <td><input type="password" id="password"  class="input "   name="password" value="<?= $password; ?>" > </td>
    <td> </td>
  </tr>
  
